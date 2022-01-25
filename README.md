@@ -4,6 +4,7 @@
 The purpose of the analysis was to analyze Amazon review data and extract information on consumer sentiment.
 
 ## Results
+![alt text](https://github.com/griswld2/Amazon_Vine_Analysis/blob/main/images/SummaryTable.PNG)
 * There are <i>658</i> Vine reviews and <i>78,569</i> non-Vine reviews
 * <b>35%</b> of Vine reviews had a 5-star rating within the beauty category
 * <b>56%</b> of non-Vine reviews had a 5-star rating within the beauty category
